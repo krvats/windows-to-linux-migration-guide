@@ -1,0 +1,9 @@
+title: Windows to Linux Migration Guide
+description: Switch from Windows to Linux without losing games, saves or files.
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+  - jekyll-readme-index
+relative_links:
+  enabled: true
+  collections: false
