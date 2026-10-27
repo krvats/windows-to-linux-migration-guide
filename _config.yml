@@ -6,7 +6,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 title: Windows to Linux Migration Guide
-description: Switch from Windows to Linux without losing games, saves or files.
+description: Switch to Linux without losing games, saves or files. Back up Steam games before installing Linux, and dual boot Linux with limited storage.
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
