@@ -1,3 +1,6 @@
+title: Windows to Linux Migration Guide
+description: Switch to Linux without losing games, saves or files. Back up Steam games before installing Linux, and dual boot Linux with limited storage.
+theme: jekyll-theme-cayman
 url: https://krvats.github.io
 baseurl: /windows-to-linux-migration-guide
 plugins:
@@ -5,12 +8,6 @@ plugins:
   - jekyll-readme-index
   - jekyll-sitemap
   - jekyll-seo-tag
-title: Windows to Linux Migration Guide
-description: Switch to Linux without losing games, saves or files. Back up Steam games before installing Linux, and dual boot Linux with limited storage.
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-relative-links
-  - jekyll-readme-index
 relative_links:
   enabled: true
   collections: false
