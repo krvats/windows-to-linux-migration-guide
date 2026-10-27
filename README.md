@@ -1,3 +1,7 @@
+---
+title: "Windows to Linux Guide: Switch Without Losing Games or Files"
+description: "Free step-by-step guide to switch from Windows to Linux without losing games, saves or files. Backup, dual boot, Steam Proton, low storage, slow internet."
+---
 # Windows to Linux Migration Guide: Switch Without Losing Games, Saves or Files
 
 > **A complete, step-by-step guide to moving from Windows to Linux (single OS or dual boot) without losing your games, game saves, projects or settings.**
