@@ -1,3 +1,7 @@
+---
+title: "Switch to Linux Without Losing Games: App and Game Check"
+description: "Check your games and apps before you switch to Linux without losing games, saves or files. ProtonDB, anti-cheat and Adobe warnings explained."
+---
 # 00. Should you switch? App and game check
 
 *Last reviewed: 2026-10-27*
