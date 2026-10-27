@@ -1,3 +1,7 @@
+---
+title: "Dual Boot Linux With Limited Storage: Safe Partition Guide"
+description: "Dual boot Linux with limited storage and no data loss. Shrink partitions safely, use shared drives, and avoid common Disk Management mistakes."
+---
 # 11. Low storage, shared drives and partition tricks
 
 *Last reviewed: 2026-10-27*
