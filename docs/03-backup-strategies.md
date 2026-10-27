@@ -1,3 +1,7 @@
+---
+title: "Back Up Steam Games Before Installing Linux (No Re-Download)"
+description: "How to back up Steam games, saves and your user profile before installing Linux, so you never re-download. Includes a free PowerShell script."
+---
 # 03. Backup strategies
 
 *Last reviewed: 2026-10-27*
