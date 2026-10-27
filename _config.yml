@@ -1,3 +1,10 @@
+url: https://krvats.github.io
+baseurl: /windows-to-linux-migration-guide
+plugins:
+  - jekyll-relative-links
+  - jekyll-readme-index
+  - jekyll-sitemap
+  - jekyll-seo-tag
 title: Windows to Linux Migration Guide
 description: Switch from Windows to Linux without losing games, saves or files.
 theme: jekyll-theme-cayman
